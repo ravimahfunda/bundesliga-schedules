@@ -11,6 +11,7 @@ var urlsToCache = [
   "/manifest.json",
   "/js/nav.js",
   "/js/api.js",
+  "/js/database.js",
   "/icon.png"
 ];
 
