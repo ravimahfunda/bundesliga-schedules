@@ -1,0 +1,16 @@
+{
+    "name": "Bundesliga",
+    "short_name": "Bundesliga",
+    "description": "Match schedule of Bundesliga",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#1565c0",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
