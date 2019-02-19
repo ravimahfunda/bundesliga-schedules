@@ -69,6 +69,10 @@ document.addEventListener("DOMContentLoaded", function() {
         getStandings();
         break;
       }
+      case "saved":{
+        getSavedSchedules();
+        break;
+      }
     }
   }
 

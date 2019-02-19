@@ -1,5 +1,6 @@
 {
     "name": "Bundesliga",
+    "gcm_sender_id": "382970463111",
     "short_name": "Bundesliga",
     "description": "Match schedule of Bundesliga",
     "start_url": "/index.html",
@@ -9,7 +10,7 @@
     "icons": [
         {
             "src": "icon.png",
-            "sizes": "512x512",
+            "sizes": "200x200",
             "type": "image/png"
         }
     ]
